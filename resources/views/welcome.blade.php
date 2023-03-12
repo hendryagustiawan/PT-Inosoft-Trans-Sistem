@@ -14,6 +14,7 @@
             integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD"
             crossorigin="anonymous"
         />
+        <script src="{{ mix('js/app.js') }}" type="text/javascript" defer></script>
     </head>
     <body class="antialiased">
         <div id="app">
